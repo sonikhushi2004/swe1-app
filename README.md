@@ -4,4 +4,3 @@
 [![Coverage Status](https://coveralls.io/repos/github/sonikhushi2004/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/sonikhushi2004/swe1-app?branch=main)
 
 App: http://swe1-app-env.eba-cpq6cmmz.us-east-1.elasticbeanstalk.com/
-
