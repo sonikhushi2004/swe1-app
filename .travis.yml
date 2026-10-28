@@ -26,5 +26,6 @@ deploy:
   region: "us-east-1"
   app: "swe1-app"
   env: "Swe1-app-env"
+  bucket: "elasticbeanstalk-us-east-1-050129644695"
   on:
     branch: main
